@@ -1,0 +1,18 @@
+act 5.
+ai integration
+aspa 266 wifi modyul
+cloud server dhd 11 _temperature sensor
+cloud access to _mobile phone
+Maghimo ug page 
+use camera -ilabay web server -kuhaon ang api
+analyze predict action kuhaon  ang temperature
+set threshold-36 degree -on ang aircon 
+automation using integration of iot / 
+ex.maghimog gesture on /off
+act 7 
+project exhibit
+
+
+(midterm unit 1-4)
+
+palitonon
